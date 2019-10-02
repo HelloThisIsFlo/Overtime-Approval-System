@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails Overtime-Approval-System: test" uuid="994935c7-ed38-4234-873a-361db37a4017">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/Overtime_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails Overtime-Approval-System: production" uuid="565837ac-e521-474e-9fd3-2fdb86f0a74e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/Overtime_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails Overtime-Approval-System: development" uuid="c2eaf916-c8d2-4528-916d-d38da0491917">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/Overtime_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
